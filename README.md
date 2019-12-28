@@ -23,9 +23,11 @@ So we were able to use APIs from Youtube, Ticketmaster, newsapi.org, OpenWeather
  
 ## New Technology
 The new technology that we implemented was the Date Range picker library. With this technology, you're able to pick the date that you'll be traveling to the destination and see what will be going on during that day due to the connection with the APIs.
- 
-## END
-As we continue to expand and create more for this site, we here at Bearfoot Voyager, would like to thank you for you time and hope that this helps with your travel needs. Happy travels and voyage on!
+## Check it out at:
+https://barrett4467.github.io/Barefoot-Voyager/
 
 ## Walkthrough
 ![](bearfootwalkthrough.gif)
+
+## END
+As we continue to expand and create more for this site, we here at Bearfoot Voyager, would like to thank you for you time and hope that this helps with your travel needs. Happy travels and voyage on!
