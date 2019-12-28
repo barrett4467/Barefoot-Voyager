@@ -26,3 +26,6 @@ The new technology that we implemented was the Date Range picker library. With t
  
 ## END
 As we continue to expand and create more for this site, we here at Bearfoot Voyager, would like to thank you for you time and hope that this helps with your travel needs. Happy travels and voyage on!
+
+##Walkthrough
+![](bearfootwalkthrough.gif)
